@@ -1,0 +1,20 @@
+weight: [[-0.70290625]] bias :[0.12791382] epochs: 0 learning rate: 0.01 root-mean-squared 1.936206340789795
+Class=-0.7029x+0.1279
+weight: [[-0.12024553]] bias :[0.37075737] epochs: 999 learning rate: 0.01 root-mean-squared 0.3392374813556671
+Class=-0.1202x+0.3708
+weight: [[-0.12620972]] bias :[0.37590683] epochs: 999 learning rate: 0.01 root-mean-squared 0.33882930874824524
+Class=-0.1262x+0.3759
+weight: [[-0.0992115]] bias :[0.37960467] epochs: 999 learning rate: 0.01 root-mean-squared 0.33928221464157104
+Class=-0.0992x+0.3796
+weight: [[-0.12092138]] bias :[0.35170695] epochs: 999 learning rate: 0.01 root-mean-squared 0.3393217921257019
+Class=-0.1209x+0.3517
+weight: [[-0.11178108]] bias :[0.37592533] epochs: 999 learning rate: 0.01 root-mean-squared 0.3392181694507599
+Class=-0.1118x+0.3759
+weight: [[-0.12482097]] bias :[0.371283] epochs: 999 learning rate: 0.01 root-mean-squared 0.3392050862312317
+Class=-0.1248x+0.3713
+weight: [[-0.12284405]] bias :[0.35983] epochs: 999 learning rate: 0.01 root-mean-squared 0.33922210335731506
+Class=-0.1228x+0.3598
+weight: [[-0.12676631]] bias :[0.3876658] epochs: 999 learning rate: 0.01 root-mean-squared 0.3391948342323303
+Class=-0.1268x+0.3877
+weight: [[-0.1145976]] bias :[0.36814475] epochs: 999 learning rate: 0.01 root-mean-squared 0.33911386132240295
+Class=-0.1146x+0.3681

@@ -1,0 +1,13 @@
+
+weight: [[0.00430456]] bias :[181.8346] epochs: 199 learning rate: 0.01 root-mean-squared 116.38357543945312
+median_house_value=0.0043x+181.8346
+weight: [[0.00044147]] bias :[182.45892] epochs: 199 learning rate: 0.01 root-mean-squared 116.5062484741211
+median_house_value=0.0004x+182.4589
+weight: [[0.01133057]] bias :[182.09076] epochs: 199 learning rate: 0.01 root-mean-squared 116.53654479980469
+median_house_value=0.0113x+182.0908
+weight: [[0.01225444]] bias :[182.27223] epochs: 199 learning rate: 0.01 root-mean-squared 116.59437561035156
+median_house_value=0.0123x+182.2722
+weight: [[0.00529863]] bias :[182.31046] epochs: 199 learning rate: 0.01 root-mean-squared 116.490966796875
+median_house_value=0.0053x+182.3105
+weight: [[-0.00299441]] bias :[182.05193] epochs: 199 learning rate: 0.01 root-mean-squared 116.33382415771484
+median_house_value=-0.0030x+182.0519

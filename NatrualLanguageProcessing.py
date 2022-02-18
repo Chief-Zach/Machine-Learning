@@ -1,6 +1,7 @@
 from keras.preprocessing import sequence
 import tensorflow as tf
 from keras.datasets import imdb
+
 VOCAB_SIZE = 88584
 
 MAXLEN = 250
@@ -17,13 +18,10 @@ model = tf.keras.Sequential([
     tf.keras.layers.Dense(1, activation="sigmoid")  # Between 0-1
 ])
 
-model.compile(optimizer=tf.keras.optimizers.RMSprop(), loss="mean_squared_error", metrics=[tf.keras.metrics.RootMeanSquaredError()])
-
-
-
+model.compile(optimizer=tf.keras.optimizers.RMSprop(), loss="mean_squared_error",
+              metrics=[tf.keras.metrics.RootMeanSquaredError()])
 
 history = model.fit(x=train_data, y=train_labels, batch_size=BATCH_SIZE, epochs=10, validation_split=0.2)
 
 results = model.evaluate(test_data, test_labels)
 print(results)
-

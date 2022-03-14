@@ -20,3 +20,5 @@ weight: [[-0.1145976]] bias :[0.36814475] epochs: 999 learning rate: 0.01 root-m
 Class=-0.1146x+0.3681
 weight: [[-0.11389273]] bias :[0.36510178] epochs: 999 learning rate: 0.01 root-mean-squared 0.33902111649513245
 Class=-0.1139x+0.3651
+weight: [[-0.11884809]] bias :[0.35028577] epochs: 999 learning rate: 0.01 root-mean-squared 0.33930519223213196
+Class=-0.1188x+0.3503

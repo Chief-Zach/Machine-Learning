@@ -3,7 +3,6 @@ import tensorflow as tf
 from tensorflow import keras
 from matplotlib import pyplot as plt
 import numpy as np
-import torch
 
 tf.compat.v1.ConfigProto()
 pd.options.display.max_rows = 10
